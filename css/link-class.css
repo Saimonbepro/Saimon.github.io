@@ -1,0 +1,47 @@
+/*a {
+    text-decoration: none;
+    background-color: #2196F3;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: inset -2px -2px 4px #124b79;
+}
+
+a:hover {
+    color: #dfdfdf;
+}
+
+a:active {
+    box-shadow: 0 0 3px transparent;
+    box-shadow: inset -2px -2px black;
+    box-shadow: inset 2px 2px 4px #124b79;
+}
+
+#google:hover {
+    box-shadow: 0 0 3px transparent;
+}
+
+#google:active {
+    box-shadow: inset 2px 2px 4px #124b79;
+}*/
+#google {
+    text-decoration: none;
+    background-color: #2196F3;
+    color: white;
+    border-radius: 5px;
+    /* border-style: solid; */
+    /* border-color: #000; */
+    /* border-width: 1px; */
+    padding: 5px;
+    margin: 5px;
+    box-shadow: inset -2px -2px 4px #124b79;
+}
+
+#google:hover {
+    box-shadow: 0 0 3px transparent;
+}
+
+#google:active {
+    box-shadow: inset 2px 2px 4px #124b79;
+}

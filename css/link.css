@@ -1,0 +1,34 @@
+a {
+    color: #00ffff;
+    /* background-color: #ff0000; */
+    border-radius: 5px;
+    border-style: solid;
+    /* border-color: #000; */
+    border-width: 5px;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 1px 1px #000;
+    font-family: 'Comic Neue', cursive;
+}
+
+#title {
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Spicy Rice', cursive;
+}
+
+
+#google:hover {
+    background-color: green;
+    box-shadow: 0 0 3px transparent;
+}
+
+#google:active {
+    box-shadow: inset 1px 1px #c51919;
+}
+
+/* #google:hover {
+
+} */
+#btn {
+    background-color: yellow;
+}

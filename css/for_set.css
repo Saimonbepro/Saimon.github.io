@@ -1,0 +1,20 @@
+.btn {
+    text-decoration: none;
+    background-color: #aeaeae;
+    color: white;
+    border-radius: 5px;
+    /* border-style: solid; */
+    /* border-color: #000; */
+    /* border-width: 1px; */
+    padding: 5px;
+    margin: 5px;
+    box-shadow: inset -2px -2px 4px #595959;
+}
+
+.btn:hover {
+    box-shadow: 0 0 1px transparent;
+}
+
+.btn:active {
+    box-shadow: inset 2px 2px 4px #595959;
+}
